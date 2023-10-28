@@ -1,0 +1,13 @@
+{
+  "name": "approuter",
+  "dependencies": {
+    "@sap/audit-logging": "5.7.1",
+    "@sap/approuter": "^10.0.0"
+  },
+  "engines": {
+    "node": "^16"
+  },
+  "scripts": {
+    "start": "node node_modules/@sap/approuter/approuter.js"
+  }
+}
